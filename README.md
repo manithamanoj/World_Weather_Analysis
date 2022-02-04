@@ -28,4 +28,13 @@ add the weather description to the weather data that we have already retrieved i
 
 <img width="1263" alt="Screen Shot 2022-02-02 at 11 47 44 PM" src="https://user-images.githubusercontent.com/72629108/152479065-0bd64967-d5dd-4673-8b40-e95d1ea5c0bc.png">
 
+### Software
 
+* Python 3.7.6
+* Pandas Library
+* Matplotlib
+* Citipy
+* Jupyter Notebook
+* JSON 
+* OpenWeatherMap API  
+* Google maps and Places API
