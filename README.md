@@ -7,20 +7,20 @@ add the weather description to the weather data that we have already retrieved i
 ## Analysis
  ### Retrieve Weather Data
     
-    First, we generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data, we gathered in the current weather description for each city. 
+ First, we generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data, we gathered in the current weather description for each city. 
 
 <img width="1440" alt="Screen Shot 2022-02-03 at 10 45 38 PM" src="https://user-images.githubusercontent.com/72629108/152478822-0d254b28-6823-4116-9701-2f612bedcd4f.png">
 
 ### Create a Customer Travel Destinations Map
    
-   With “Google maps and Places” API and travelers weather preference inputs we create a Customer Travel Destinations Map.
+  With “Google maps and Places” API and travelers weather preference inputs we create a Customer Travel Destinations Map.
 
 <img width="1263" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/72629108/152478917-b3ad9e2e-7d51-4bbc-a514-7042c3175f43.png">
 
 
 ### Create a Travel Itinerary Map
     
-    Using the “Google Maps Directions” API, we create a travel route between the four cities as well as a marker layer map.
+  Using the “Google Maps Directions” API, we create a travel route between the four cities as well as a marker layer map.
 
 <img width="1263" alt="Screen Shot 2022-02-02 at 11 55 23 PM" src="https://user-images.githubusercontent.com/72629108/152479112-6c7e4c38-8bf8-42e8-ab4a-4d20b36d034b.png">
 
