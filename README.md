@@ -9,7 +9,8 @@ add the weather description to the weather data that we have already retrieved i
     
  First, we generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data, we gathered in the current weather description for each city. 
 
-<img width="1440" alt="Screen Shot 2022-02-03 at 10 45 38 PM" src="https://user-images.githubusercontent.com/72629108/152478822-0d254b28-6823-4116-9701-2f612bedcd4f.png">
+<img width="1419" alt="Screen Shot 2022-02-03 at 10 53 23 PM" src="https://user-images.githubusercontent.com/72629108/152479616-bf64b8cb-a006-48bd-b4f8-95b72c2fe775.png">
+
 
 ### Create a Customer Travel Destinations Map
    
